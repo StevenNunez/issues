@@ -1,4 +1,4 @@
 Issues
 ======
 
-** TODO: Add description **
+Issues app from Pragmatic Programmers Programming Elixir.
